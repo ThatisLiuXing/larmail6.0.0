@@ -340,7 +340,7 @@ ai:
   # 高级选项
   num_retries: 1                    # 失败重试次数
   fallback_models: ["openai/GLM-4.1V-Thinking-Flash", "openai/GLM-4-Flash-250414"]
-]               # 备用模型列表（可选）
+               # 备用模型列表（可选）
                                     # 示例: ["openai/gpt-4o-mini", "openai/deepseek-ai/DeepSeek-V3"]
 
   # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
